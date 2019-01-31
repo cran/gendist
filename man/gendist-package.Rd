@@ -13,8 +13,8 @@ Computes the probability density function (pdf), cumulative distribution functio
 \tabular{ll}{
 Package: \tab gendist\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2015-07-23\cr
+Version: \tab 2.0\cr
+Date: \tab 2019-01-30\cr
 License: \tab GPL (>=2)\cr
 }
 All the models use parent distribution(s) and thus flexible to incorporate many exisiting probability distributions.
@@ -25,7 +25,7 @@ Shaiful Anuar Abu Bakar
 Maintainer: Shaiful Anuar Abu Bakar <saab@um.edu.my>
 }
 \references{
-S.A. Abu Bakar, S. Nadarajah, Z.A. ABSL Kamarul Adzhar, I. Mohamed. gendist: An R package for generated probability distribution models, submitted.\cr
+Abu Bakar, S. A., Nadarajah, S., Adzhar, Z. A. A. K., & Mohamed, I. (2016). gendist: An R package for generated probability distribution models. PloS one, 11(6).\cr
 Gomez-Deniz, E., & Calderin-Ojeda, E. Modelling insurance data with the pareto arctan distribution. ASTIN Bulletin, 1-22.\cr
 Cooray, K., & Ananda, M. M. (2005). Modeling actuarial data with a composite lognormal-Pareto model. Scandinavian Actuarial Journal, 2005(5), 321-334.\cr
 Scollnik, D. P. (2007). On composite lognormal-Pareto models. Scandinavian Actuarial Journal, 2007(1), 20-33.\cr
